@@ -1,0 +1,543 @@
+[
+    {
+        "item": {"name": "Plumed Oak Macuahuitl", "equipable": true},
+        "crafting_class": "CRP",
+        "level": 41,
+        "yield": 1,
+        "durability": 80,
+        "quality": 1460,
+        "components": [
+            {"name": "Oak Lumber", "amount": 1},
+            {"name": "Wyvern Obsidian", "amount": 3},
+            {"name": "Wildfowl Feather", "amount": 1},
+            {"name": "Wind Shard", "amount": 5},
+            {"name": "Ice Shard", "amount": 4}
+        ]
+    },
+    {
+        "item": {"name": "Sprouting Rosewood Radical", "equipable": true},
+        "crafting_class": "CRP",
+        "level": 42,
+        "yield": 1,
+        "durability": 80,
+        "quality": 1520,
+        "components": [
+            {"name": "Rosewood Branch", "amount": 1, "source": [
+                {"type": "BTN - Logging", "location": "East Shroud: The Bramble Patch", "node_level": 50}
+            ]},
+            {"name": "Wyvern Obsidian", "amount": 1},
+            {"name": "Spoken Blood", "amount": 1, "source": [
+                {"type": "HNT - Hunting", "location": "South Shroud - Lesser Kalong"}
+            ]},
+            {"name": "Wind Shard", "amount": 5},
+            {"name": "Ice Shard", "amount": 5}
+        ]
+    },
+    {
+        "item": {"name": "Ganret Grinding Wheel", "equipable": true},
+        "crafting_class": "CRP",
+        "level": 43,
+        "yield": 1,
+        "durability": 80,
+        "quality": 1580,
+        "components": [
+            {"name": "Myhtril Ingot", "amount": 1},
+            {"name": "Raw Garnet", "amount": 1, "source": [
+                {"type": "MIN - Mining", "location": "Eastern La Noscea: Bloodshore", "node_level": 35}
+            ]},
+            {"name": "Mahogany Lumber", "amount": 1},
+            {"name": "Wind Shard", "amount": 5},
+            {"name": "Ice Shard", "amount": 5}
+        ]
+    },
+    {
+        "item": {"name": "Vintage Round Shield", "equipable": true},
+        "crafting_class": "CRP",
+        "level": 43,
+        "yield": 1,
+        "durability": 80,
+        "quality": 1580,
+        "components": [
+            {"name": "Rotting Round Shield", "amount": 1, "source": [
+                {"type": "NPC - Vendor", "location": "Upper La Noscea - Junkmonger"}
+            ]},
+            {"name": "Mahogany Lumber", "amount": 2},
+            {"name": "Ragstone", "amount": 1},
+            {"name": "Iron Rivets", "amount": 1},
+            {"name": "Lanolin", "amount": 1},
+            {"name": "Wind Crystal", "amount": 1, "source": [
+                {"type": "MIN, BTN", "location": "Various", "node_level": 30}
+            ]}
+        ]
+    },
+    {
+        "item": {"name": "Cobalt Halberd", "equipable": true},
+        "crafting_class": "CRP",
+        "level": 44,
+        "yield": 1,
+        "durability": 80,
+        "quality": 1640,
+        "components": [
+            {"name": "Cobalt Ingot", "amount": 1},
+            {"name": "Silver Ingot", "amount": 1},
+            {"name": "Oak Lumber", "amount": 1},
+            {"name": "Boar Leather", "amount": 1},
+            {"name": "Wind Shard", "amount": 5},
+            {"name": "Ice Shard", "amount": 5}
+        ]
+    },
+    {
+        "item": {"name": "Jade Crook", "equipable": true},
+        "crafting_class": "CRP",
+        "level": 44,
+        "yield": 1,
+        "durability": 80,
+        "quality": 1640,
+        "components": [
+            {"name": "Mahogany Lumber", "amount": 1},
+            {"name": "Jadeite", "amount": 1},
+            {"name": "Spoken Blood", "amount": 1},
+            {"name": "Horn Glue", "amount": 1},
+            {"name": "Wind Shard", "amount": 5},
+            {"name": "Ice Shard", "amount": 5}
+        ]
+    },
+    {
+        "item": {"name": "Rosewood Lumber", "equipable": false},
+        "crafting_class": "CRP",
+        "level": 45,
+        "yield": 1,
+        "durability": 40,
+        "quality": 11360,
+        "components": [
+            {"name": "Rosewood Log", "amount": 3, "source": [
+                {"type": "BTN - Logging", "location": "East Shroud: The Bramble Patch", "node_level": 50}
+            ]},
+            {"name": "Wind Shard", "amount": 6}
+        ]
+    },
+    {
+        "item": {"name": "Cobalt Cavalry Bow", "equipable": true},
+        "crafting_class": "CRP",
+        "level": 45,
+        "yield": 1,
+        "durability": 80,
+        "quality": 1275,
+        "components": [
+            {"name": "Myhtril Cavalry Bow", "amount": 1},
+            {"name": "Raptor Sinew", "amount": 1, "source": [
+                {"type": "HNT - Hunting", "location": "Outer La Noscea - Velociraptor"}
+            ]},
+            {"name": "Cobalt Ingot", "amount": 1},
+            {"name": "Wind Shard", "amount": 6},
+            {"name": "Ice Shard", "amount": 5}
+        ]
+    },
+    {
+        "item": {"name": "Rosewood Spinning Wheel", "equipable": true},
+        "crafting_class": "CRP",
+        "level": 45,
+        "yield": 1,
+        "durability": 80,
+        "quality": 1700,
+        "components": [
+            {"name": "Rosewood Lumber", "amount": 2},
+            {"name": "Cobalt Rivets", "amount": 2},
+            {"name": "Wind Shard", "amount": 6},
+            {"name": "Ice Shard", "amount": 5}
+        ]
+    },
+    {
+        "item": {"name": "Rosewood Fishing Rod", "equipable": true},
+        "crafting_class": "CRP",
+        "level": 45,
+        "yield": 1,
+        "durability": 80,
+        "quality": 1700,
+        "components": [
+            {"name": "Rosewood Lumber", "amount": 1},
+            {"name": "Rosewood Branch", "amount": 1},
+            {"name": "Myhtril Ingot", "amount": 1},
+            {"name": "Crab Oil", "amount": 1},
+            {"name": "Wind Shard", "amount": 6},
+            {"name": "Ice Shard", "amount": 5}
+        ]
+    },
+    {
+        "item": {"name": "Eagle-crested Round Shield", "equipable": true},
+        "crafting_class": "CRP",
+        "level": 45,
+        "yield": 1,
+        "durability": 80,
+        "quality": 1700,
+        "components": [
+            {"name": "Cobalt Ingot", "amount": 1},
+            {"name": "Mahogany Lumber", "amount": 1},
+            {"name": "Cobalt Rivets", "amount": 1},
+            {"name": "Boar Leather", "amount": 1},
+            {"name": "Wind Shard", "amount": 6},
+            {"name": "Ice Shard", "amount": 5}
+        ]
+    },
+    {
+        "item": {"name": "Vintage Guisarme", "equipable": true},
+        "crafting_class": "CRP",
+        "level": 40,
+        "yield": 1,
+        "durability": 80,
+        "quality": 1700,
+        "components": [
+            {"name": "Crooked Guisarme", "amount": 1, "source": [
+                {"type":"NPC - Vendor", "location": "Upper La Noscea - Junkmonger"}
+            ]},
+            {"name": "Elm Lumber", "amount": 1},
+            {"name": "Siltstone Whetstone", "amount": 1},
+            {"name": "Horn Glue", "amount": 1},
+            {"name": "Ice Crystal", "amount": 1, "source": [
+                {"type": "MIN, BTN", "location": "Various", "node_level": 30}
+            ]}
+        ]
+    },
+    {
+        "item": {"name": "Yew Longbow", "equipable": true},
+        "crafting_class": "CRP",
+        "level": 46,
+        "yield": 1,
+        "durability": 80,
+        "quality": 1760,
+        "components": [
+            {"name": "Rosewood Lumber", "amount": 1},
+            {"name": "Yew Branch", "amount": 2},
+            {"name": "Raptor Sinew", "amount": 1},
+            {"name": "Clove Oil", "amount": 1},
+            {"name": "Wind Shard", "amount": 6},
+            {"name": "Ice Shard", "amount": 5}
+        ]
+    },
+    {
+        "item": {"name": "Cobalt Trident", "equipable": true},
+        "crafting_class": "CRP",
+        "level": 47,
+        "yield": 1,
+        "durability": 80,
+        "quality": 1820,
+        "components": [
+            {"name": "Cobalt Ingot", "amount": 3},
+            {"name": "Mahogany Lumber", "amount": 1},
+            {"name": "Shark Oil", "amount": 1},
+            {"name": "Wind Shard", "amount": 6},
+            {"name": "Ice Shard", "amount": 5}
+        ]
+    },
+    {
+        "item": {"name": "Basilisk Grinding Wheel", "equipable": true},
+        "crafting_class": "CRP",
+        "level": 47,
+        "yield": 1,
+        "durability": 80,
+        "quality": 1820,
+        "components": [
+            {"name": "Rosewood Lumber", "amount": 1},
+            {"name": "Cobalt Ingot", "amount": 1},
+            {"name": "Basilisk Egg", "amount": 1, "source": [
+                {"type": "MIN - Mining", "location": "Northern Thanalan: Bluefog", "node_level": 50}
+            ]},
+            {"name": "Wind Shard", "amount": 6},
+            {"name": "Ice Shard", "amount": 5}
+        ]
+    },
+    {
+        "item": {"name": "Vintage Bow", "equipable": true},
+        "crafting_class": "CRP",
+        "level": 47,
+        "yield": 1,
+        "durability": 80,
+        "quality": 1820,
+        "components": [
+            {"name": "Warped Bow", "amount": 1, "source": [
+                {"type": "NPC - Vendor", "location": "Upper La Noscea - Junkmonger"}
+            ]},
+            {"name": "Rosewood Lumber", "amount": 1},
+            {"name": "Wind Crystal", "amount": 1}
+        ]
+    },
+    {
+        "item": {"name": "Pastoral Mahogony Cane", "equipable": true},
+        "crafting_class": "CRP",
+        "level": 48,
+        "yield": 1,
+        "durability": 80,
+        "quality": 1880,
+        "components": [
+            {"name": "Mahogany Lumber", "amount": 1},
+            {"name": "Growth Formula Gamma", "amount": 1},
+            {"name": "Myhtril Ingot", "amount": 1},
+            {"name": "Spoken Blood", "amount": 1},
+            {"name": "Dew Thread", "amount": 1},
+            {"name": "Wind Shard", "amount": 6},
+            {"name": "Ice Shard", "amount": 6}
+        ]
+    },
+    {
+        "item": {"name": "Gilded Rosewood Fishing Rod", "equipable": true},
+        "crafting_class": "CRP",
+        "level": 48,
+        "yield": 1,
+        "durability": 80,
+        "quality": 1410,
+        "components": [
+            {"name": "Rosewood Fishing Rod", "amount": 1},
+            {"name": "Myhtril Ingot", "amount": 1},
+            {"name": "Shark Oil", "amount": 1},
+            {"name": "Electrum Ingot", "amount": 1},
+            {"name": "Wind Shard", "amount": 6},
+            {"name": "Ice Shard", "amount": 6}
+        ]
+    },
+    {
+        "item": {"name": "Mahogany Pattens", "equipable": true},
+        "crafting_class": "CRP",
+        "level": 48,
+        "yield": 1,
+        "durability": 80,
+        "quality": 1880,
+        "components": [
+            {"name": "Mahogany Lumber", "amount": 1},
+            {"name": "Undyed Felt", "amount": 1},
+            {"name": "Boar Leather", "amount": 1},
+            {"name": "Wind Shard", "amount": 6},
+            {"name": "Ice Shard", "amount": 6}
+        ]
+    },
+    {
+        "item": {"name": "Hart Guisarme", "equipable": true},
+        "crafting_class": "CRP",
+        "level": 49,
+        "yield": 1,
+        "durability": 80,
+        "quality": 1940,
+        "components": [
+            {"name": "Cobalt Ingot", "amount": 2},
+            {"name": "Rosewood Lumber", "amount": 1},
+            {"name": "Horn Glue", "amount": 1},
+            {"name": "Wind Shard", "amount": 6},
+            {"name": "Ice Shard", "amount": 6}
+        ]
+    },
+    {
+        "item": {"name": "Crab Bow", "equipable": true},
+        "crafting_class": "CRP",
+        "level": 49,
+        "yield": 1,
+        "durability": 80,
+        "quality": 1455,
+        "components": [
+            {"name": "Oak Composite Bow", "amount": 1},
+            {"name": "Aldgoat Horn", "amount": 1},
+            {"name": "Green Megalocrab Shell", "amount": 1, "source": [
+                {"type": "HNT - Hunting", "location": "Middle La Noscea - Megalocrab"}
+            ]},
+            {"name": "Red Coral", "amount": 1, "source": [
+                {"type": "FSH - Fishing", "location": "Western La Noscea: Isles of Umbra Northshore", "node_level": 40}
+            ]},
+            {"name": "Wind Shard", "amount": 6},
+            {"name": "Ice Shard", "amount": 6}
+        ]
+    },
+    {
+        "item": {"name": "Spruce Lumber", "equipable": false},
+        "crafting_class": "CRP",
+        "level": 50,
+        "yield": 1,
+        "durability": 40,
+        "quality": 1760,
+        "components": [
+            {"name": "Spruce Log", "amount": 3, "source": [
+                {"type": "BTN - Logging", "location": "Coerthas Central Highlands: Providence Point", "node_level": 50, "timed": "09:00 - 12:00"}
+            ]},
+            {"name": "Wind Crystal", "amount": 3}
+        ]
+    },
+    {
+        "item": {"name": "Champion`s Lance", "equipable": true},
+        "crafting_class": "CRP",
+        "level": 50,
+        "yield": 1,
+        "durability": 80,
+        "quality": 2200,
+        "components": [
+            {"name": "Bloody Lance Head", "amount": 1},
+            {"name": "Spruce Lumber", "amount": 1},
+            {"name": "Wind Crystal", "amount": 3},
+            {"name": "Ice Crystal", "amount": 3}
+        ]
+    },
+    {
+        "item": {"name": "Longarm`s Composite Bow", "equipable": true},
+        "crafting_class": "CRP",
+        "level": 50,
+        "yield": 1,
+        "durability": 80,
+        "quality": 2200,
+        "components": [
+            {"name": "Bloody Bow Rim", "amount": 1},
+            {"name": "Spruce Lumber", "amount": 1},
+            {"name": "Wind Crystal", "amount": 3},
+            {"name": "Ice Crystal", "amount": 3}
+        ]
+    },
+    {
+        "item": {"name": "Militia Grinding Wheel", "equipable": true},
+        "crafting_class": "CRP",
+        "level": 50,
+        "yield": 1,
+        "durability": 80,
+        "quality": 2200,
+        "components": [
+            {"name": "Darksteel Nugget", "amount": 1},
+            {"name": "Astral Rock", "amount": 1, "source": [
+                {"type": "MIN - Quarrying", "location": "Coerthas Central Highlands: Dragonhead", "node_level": 50, "timed": "21:00 - 00:00"}
+            ]},
+            {"name": "Spruce Lumber", "amount": 1},
+            {"name": "Wind Crystal", "amount": 3},
+            {"name": "Ice Crystal", "amount": 3}
+        ]
+    },
+    {
+        "item": {"name": "Militia Spinning Wheel", "equipable": true},
+        "crafting_class": "CRP",
+        "level": 50,
+        "yield": 1,
+        "durability": 80,
+        "quality": 2200,
+        "components": [
+            {"name": "Spruce Lumber", "amount": 2},
+            {"name": "Cobalt Rivets", "amount": 2},
+            {"name": "Wind Crystal", "amount": 3},
+            {"name": "Ice Crystal", "amount": 3}
+        ]
+    },
+    {
+        "item": {"name": "Treated Spruce Lumber", "equipable": false},
+        "crafting_class": "CRP",
+        "level": 50,
+        "yield": 1,
+        "durability": 40,
+        "quality": 1400,
+        "components": [
+            {"name": "Spruce Lumber", "amount": 2},
+            {"name": "Hardened Sap", "amount": 9, "source": [
+                {"type": "NPC - Vendor", "location": "Grand Company Quartermaster"}
+            ]},
+            {"name": "Wind Cluster", "amount": 1, "source": [
+                {"type": "MIN, BTN", "location": "Various", "node_level": 50}
+            ]}
+        ]
+    },
+    {
+        "item": {"name": "Sarnga Limb", "equipable": false},
+        "crafting_class": "CRP",
+        "level": 50,
+        "yield": 1,
+        "durability": 80,
+        "quality": 2500,
+        "components": [
+            {"name": "Treated Spruce Lumber", "amount": 1},
+            {"name": "Darksteel Ingot", "amount": 2},
+            {"name": "Wind Cluster", "amount": 1},
+            {"name": "Ice Cluster", "amount": 1, "source": [
+                {"type": "MIN, BTN", "location": "Various", "node_level": 50}
+            ]}
+        ]
+    },
+    {
+        "item": {"name": "Sarnga", "equipable": true},
+        "crafting_class": "CRP",
+        "level": 50,
+        "yield": 1,
+        "durability": 80,
+        "quality": 2500,
+        "components": [
+            {"name": "Sarnga Limb", "amount": 1},
+            {"name": "Darksteel Ingot", "amount": 1},
+            {"name": "Spruce Lumber", "amount": 3},
+            {"name": "Wind Cluster", "amount": 1},
+            {"name": "Ice Cluster", "amount": 1}
+        ]
+    },
+    {
+        "item": {"name": "Spruce Round Shield", "equipable": true},
+        "crafting_class": "CRP",
+        "level": 50,
+        "yield": 1,
+        "durability": 80,
+        "quality": 2500,
+        "components": [
+            {"name": "Treated Spruce Lumber", "amount": 1},
+            {"name": "Darksteel Rivets", "amount": 2},
+            {"name": "Darksteel Ingot", "amount": 1},
+            {"name": "Wind Cluster", "amount": 1},
+            {"name": "Ice Cluster", "amount": 1}
+        ]
+    },
+    {
+        "item": {"name": "Spruce Pattens", "equipable": true},
+        "crafting_class": "CRP",
+        "level": 50,
+        "yield": 1,
+        "durability": 80,
+        "quality": 2500,
+        "components": [
+            {"name": "Garlean Rubber", "amount": 1},
+            {"name": "Treated Spruce Lumber", "amount": 1},
+            {"name": "Undyed Felt", "amount": 1},
+            {"name": "Raptor Leather", "amount": 1},
+            {"name": "Wind Cluster", "amount": 1},
+            {"name": "Ice Cluster", "amount": 1}
+        ]
+    },
+    {
+        "item": {"name": "Magicked Stable Broom", "equipable": false},
+        "crafting_class": "CRP",
+        "level": 50,
+        "yield": 30,
+        "durability": 80,
+        "quality": 2500,
+        "components": [
+            {"name": "Broombush", "amount": 1},
+            {"name": "Bamboo Stick", "amount": 5},
+            {"name": "Wind Cluster", "amount": 1},
+            {"name": "Ice Cluster", "amount": 1}
+        ]
+    },
+    {
+        "item": {"name": "Blank Grade 2 Orchestrion Roll", "equipable": false},
+        "crafting_class": "CRP",
+        "level": 50,
+        "yield": 1,
+        "durability": 40,
+        "quality": 2200,
+        "components": [
+            {"name": "Spruce Log", "amount": 1},
+            {"name": "Cypress Log", "amount": 1, "source": [
+                {"type": "BTN - Logging", "location": "Central Shroud: Bentbranch", "node_level": 50, "timed": "10:00 - 13:00"}
+            ]},
+            {"name": "Wind Crystal", "amount": 7}
+        ]
+    },
+    {
+        "item": {"name": "Magic Broom", "equipable": false},
+        "crafting_class": "CRP",
+        "level": 50,
+        "yield": 1,
+        "durability": 80,
+        "quality": 2750,
+        "components": [
+            {"name": "Glazenut", "amount": 1},
+            {"name": "Broombush", "amount": 1},
+            {"name": "Rosewood Branch", "amount": 1},
+            {"name": "Ancient Lumber", "amount": 1},
+            {"name": "Wind Shard", "amount": 99}
+        ]
+    }
+]

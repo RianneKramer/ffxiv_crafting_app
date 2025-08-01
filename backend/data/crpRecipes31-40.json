@@ -1,0 +1,353 @@
+[
+    {
+        "item": {"name": "Ash Cavalry Bow", "equipable": true},
+        "crafting_class": "CRP",
+        "level": 31,
+        "yield": 1,
+        "durability": 80,
+        "quality": 900,
+        "components": [
+            {"name": "Ash Lumber", "amount": 2},
+            {"name": "Oak Branch", "amount": 1},
+            {"name": "Steel Ingot", "amount": 1},
+            {"name": "Beast Sinew", "amount": 1, "source": [
+                {"type": "NPC - Vendor", "location": "Ul'dah: Steps of Thal - Gigima"}
+            ]},
+            {"name": "Wind Shard", "amount": 3},
+            {"name": "Ice Shard", "amount": 3}
+        ]
+    },
+    {
+        "item": {"name": "Oak Lumber", "equipable": false},
+        "crafting_class": "CRP",
+        "level": 32,
+        "yield": 1,
+        "durability": 40,
+        "quality": 760,
+        "components": [
+            {"name": "Oak Log", "amount": 3, "source": [
+                {"type": "BTN - Logging", "location": "South Shroud: Lower Paths", "node_level": 35}
+            ]},
+            {"name": "Wind Shard", "amount": 3}
+        ]
+    },
+    {
+        "item": {"name": "Walnut Fishing Rod", "equipable": true},
+        "crafting_class": "CRP",
+        "level": 32,
+        "yield": 1,
+        "durability": 80,
+        "quality": 950,
+        "components": [
+            {"name": "Walnut Lumber", "amount": 1},
+            {"name": "Oak Branch", "amount": 1, "source": [
+                {"type": "BTN - Logging", "location": "South Shroud: Lower Paths", "node_level": 35}
+            ]},
+            {"name": "Steel Ingot", "amount": 1},
+            {"name": "Wind Shard", "amount": 3},
+            {"name": "Ice Shard", "amount": 3}
+        ]
+    },
+    {
+        "item": {"name": "Walnut Spinning Wheel", "equipable": true},
+        "crafting_class": "CRP",
+        "level": 33,
+        "yield": 1,
+        "durability": 80,
+        "quality": 1000,
+        "components": [
+            {"name": "Walnut Lumber", "amount": 2},
+            {"name": "Steel Rivets", "amount": 2},
+            {"name": "Wind Shard", "amount": 4},
+            {"name": "Ice Shard", "amount": 3}
+        ]
+    },
+    {
+        "item": {"name": "Walnut Pattens", "equipable": true},
+        "crafting_class": "CRP",
+        "level": 33,
+        "yield": 1,
+        "durability": 80,
+        "quality": 1000,
+        "components": [
+            {"name": "Walnut Lumber", "amount": 1},
+            {"name": "Undyed Velveteen", "amount": 1},
+            {"name": "Aldgoat Leather", "amount": 1},
+            {"name": "Wind Shard", "amount": 4},
+            {"name": "Ice Shard", "amount": 3}
+        ]
+    },
+    {
+        "item": {"name": "Walnut Macuahuitl", "equipable": true},
+        "crafting_class": "CRP",
+        "level": 34,
+        "yield": 1,
+        "durability": 80,
+        "quality": 1050,
+        "components": [
+            {"name": "Walnut Lumber", "amount": 1},
+            {"name": "Wyvern Obsidian", "amount": 2, "source": [
+                {"type": "MIN - Mining", "location": "Eastern Thanalan: Wellwick Wood", "node_level": 30}
+            ]},
+            {"name": "Wind Shard", "amount": 4},
+            {"name": "Ice Shard", "amount": 3}
+        ]
+    },
+    {
+        "item": {"name": "Siltstone Grinding Wheel", "equipable": true},
+        "crafting_class": "CRP",
+        "level": 34,
+        "yield": 1,
+        "durability": 80,
+        "quality": 1050,
+        "components": [
+            {"name": "Walnut Lumber", "amount": 1},
+            {"name": "Steel Ingot", "amount": 1},
+            {"name": "Siltstone", "amount": 1, "source": [
+                {"type": "MIN - Quarrying", "location": "Upper La Noscea: Oakwood", "node_level": 30}
+            ]},
+            {"name": "Wind Shard", "amount": 4},
+            {"name": "Ice Shard", "amount": 3}
+        ]
+    },
+    {
+        "item": {"name": "Heavy Steel Lance", "equipable": true},
+        "crafting_class": "CRP",
+        "level": 35,
+        "yield": 1,
+        "durability": 80,
+        "quality": 1110,
+        "components": [
+            {"name": "Walnut Lumber", "amount": 1},
+            {"name": "Toad Leather", "amount": 1},
+            {"name": "Steel Ingot", "amount": 2},
+            {"name": "Wind Shard", "amount": 4},
+            {"name": "Ice Shard", "amount": 3}
+        ]
+    },
+    {
+        "item": {"name": "Oak Longbow", "equipable": true},
+        "crafting_class": "CRP",
+        "level": 35,
+        "yield": 1,
+        "durability": 80,
+        "quality": 1110,
+        "components": [
+            {"name": "Oak Lumber", "amount": 1},
+            {"name": "Ash Branch", "amount": 2},
+            {"name": "Linen Yarn", "amount": 1},
+            {"name": "Steel Ingot", "amount": 1},
+            {"name": "Wind Shard", "amount": 4},
+            {"name": "Ice Shard", "amount": 3}
+        ]
+    },
+    {
+        "item": {"name": "Oak Radical", "equipable": true},
+        "crafting_class": "CRP",
+        "level": 35,
+        "yield": 1,
+        "durability": 80,
+        "quality": 1110,
+        "components": [
+            {"name": "Oak Branch", "amount": 1},
+            {"name": "Sunrise Tellin", "amount": 1},
+            {"name": "Scalekin Blood", "amount": 1},
+            {"name": "Wind Shard", "amount": 4},
+            {"name": "Ice Shard", "amount": 3}
+        ]
+    },
+    {
+        "item": {"name": "Vintage Square Shield", "equipable": true},
+        "crafting_class": "CRP",
+        "level": 35,
+        "yield": 1,
+        "durability": 80,
+        "quality": 1110,
+        "components": [
+            {"name": "Worm-eaten Square Shield", "amount": 1, "source": [
+                {"type": "NPC - Vendor", "location": "Upper La Noscea - Junkmonger"}
+            ]},
+            {"name": "Elm Lumber", "amount": 1},
+            {"name": "Leather", "amount": 2},
+            {"name": "Bronze Rivets", "amount": 1},
+            {"name": "Cider Vinegar", "amount": 1},
+            {"name": "Wind Crystal", "amount": 1}
+        ]
+    },
+    {
+        "item": {"name": "Yarzonshell Harpoon", "equipable": true},
+        "crafting_class": "CRP",
+        "level": 36,
+        "yield": 1,
+        "durability": 80,
+        "quality": 1160,
+        "components": [
+            {"name": "Walnut Lumber", "amount": 1},
+            {"name": "Wildfowl Feather", "amount": 1, "source": [
+                {"type": "BTN - Harvesting", "location": "South Shroud: Lower Paths", "node_level": 35}
+            ]},
+            {"name": "Yellow Yarzon Leg", "amount": 1, "source": [
+                {"type": "HNT - Hunting", "location": "Southern Thanalan - Russet Yarzon"}
+            ]},
+            {"name": "Fish Glue", "amount": 1},
+            {"name": "Wind Shard", "amount": 4},
+            {"name": "Ice Shard", "amount": 4}
+        ]
+    },
+    {
+        "item": {"name": "Mythril Cavalry Bow", "equipable": true},
+        "crafting_class": "CRP",
+        "level": 36,
+        "yield": 1,
+        "durability": 80,
+        "quality": 1160,
+        "components": [
+            {"name": "Oak Lumber", "amount": 2},
+            {"name": "Oak Branch", "amount": 1},
+            {"name": "Mythril Ingot", "amount": 1},
+            {"name": "Diremite Sinew", "amount": 1, "source": [
+                {"type": "HNT - Hunting", "location": "North Shroud - Diremite"}
+            ]},
+            {"name": "Wind Shard", "amount": 4},
+            {"name": "Ice Shard", "amount": 4}
+        ]
+    },
+    {
+        "item": {"name": "Pastoral Oak Cane", "equipable": true},
+        "crafting_class": "CRP",
+        "level": 30,
+        "yield": 1,
+        "durability": 80,
+        "quality": 1220,
+        "components": [
+            {"name": "Oak Lumber", "amount": 1},
+            {"name": "Growth Formula Gamma", "amount": 1},
+            {"name": "Brass Ingot", "amount": 1},
+            {"name": "Scalekin Blood", "amount": 1},
+            {"name": "Cotton Yarn", "amount": 1},
+            {"name": "Wind Shard", "amount": 4},
+            {"name": "Ice Shard", "amount": 4}
+        ]
+    },
+    {
+        "item": {"name": "Horn Fishing Rod", "equipable": true},
+        "crafting_class": "CRP",
+        "level": 37,
+        "yield": 1,
+        "durability": 80,
+        "quality": 915,
+        "components": [
+            {"name": "Walnut Fishing Rod", "amount": 1},
+            {"name": "Steel Ingot", "amount": 1},
+            {"name": "Fish Oil", "amount": 1},
+            {"name": "Aldgoat Horn", "amount": 1, "source": [
+                {"type": "HNT - Hunting", "location": "Eastern Thanalan - Aldgoat"}
+            ]},
+            {"name": "Wind Shard", "amount": 4},
+            {"name": "Ice Shard", "amount": 4}
+        ]
+    },
+    {
+        "item": {"name": "Mythril Lance", "equipable": true},
+        "crafting_class": "CRP",
+        "level": 38,
+        "yield": 1,
+        "durability": 80,
+        "quality": 1280,
+        "components": [
+            {"name": "Oak Lumber", "amount": 1},
+            {"name": "Boar Leather", "amount": 1},
+            {"name": "Mythril Ingot", "amount": 2},
+            {"name": "Wind Shard", "amount": 4},
+            {"name": "Ice Shard", "amount": 4}
+        ]
+    },
+    {
+        "item": {"name": "Vintage Cane", "equipable": true},
+        "crafting_class": "CRP",
+        "level": 38,
+        "yield": 1,
+        "durability": 80,
+        "quality": 1280,
+        "components": [
+            {"name": "Splintered Cane", "amount": 1, "source": [
+                {"type": "NPC - Vendor", "location": "Upper La Noscea - Junkmonger"}
+            ]},
+            {"name": "Growth Formula Gamma", "amount": 1},
+            {"name": "Wind Crystal", "amount": 1}
+        ]
+    },
+    {
+        "item": {"name": "Mahogany Lumber", "equipable": false},
+        "crafting_class": "CRP",
+        "level": 39,
+        "yield": 1,
+        "durability": 40,
+        "quality": 1072,
+        "components": [
+            {"name": "Mahogany Log", "amount": 3, "source": [
+                {"type": "BTN - Logging", "location": "Eastern La Noscea: Raincather Gully", "node_level": 40}
+            ]},
+            {"name": "Wind Shard", "amount": 5}
+        ]
+    },
+    {
+        "item": {"name": "Oak Pattens", "equipable": true},
+        "crafting_class": "CRP",
+        "level": 39,
+        "yield": 1,
+        "durability": 80,
+        "quality": 1340,
+        "components": [
+            {"name": "Oak Lumber", "amount": 1},
+            {"name": "Undyed Woolen Cloth", "amount": 1},
+            {"name": "Boar Leather", "amount": 1},
+            {"name": "Wind Shard", "amount": 5},
+            {"name": "Ice Shard", "amount": 4}
+        ]
+    },
+    {
+        "item": {"name": "Oak Composite Bow", "equipable": true},
+        "crafting_class": "CRP",
+        "level": 40,
+        "yield": 1,
+        "durability": 80,
+        "quality": 1400,
+        "components": [
+            {"name": "Oak Lumber", "amount": 3},
+            {"name": "Beast Sinew", "amount": 1},
+            {"name": "Aldgoat Horn", "amount": 1},
+            {"name": "Wind Shard", "amount": 5},
+            {"name": "Ice Shard", "amount": 4}
+        ]
+    },
+    {
+        "item": {"name": "Mahogany Spinning Wheel", "equipable": true},
+        "crafting_class": "CRP",
+        "level": 40,
+        "yield": 1,
+        "durability": 80,
+        "quality": 1400,
+        "components": [
+            {"name": "Mahogany Lumber", "amount": 2},
+            {"name": "Mythril Rivets", "amount": 2},
+            {"name": "Wind Shard", "amount": 5},
+            {"name": "Ice Shard", "amount": 4}
+        ]
+    },
+    {
+        "item": {"name": "Mahogany Fishing Rod", "equipable": true},
+        "crafting_class": "CRP",
+        "level": 40,
+        "yield": 1,
+        "durability": 80,
+        "quality": 1400,
+        "components": [
+            {"name": "Mahogany Lumber", "amount": 1},
+            {"name": "Oak Branch", "amount": 1},
+            {"name": "Mythril Ingot", "amount": 1},
+            {"name": "Wind Shard", "amount": 5},
+            {"name": "Ice Shard", "amount": 4}
+        ]
+    }
+]

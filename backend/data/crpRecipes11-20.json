@@ -1,0 +1,313 @@
+[
+    {
+        "item": {"name": "Ragstone Grinding Wheel", "equipable": true},
+        "crafting_class": "CRP",
+        "level": 11,
+        "yield": 1,
+        "durability": 60,
+        "quality": 270,
+        "components": [
+            {"name": "Ash Lumber", "amount": 1},
+            {"name": "Bronze Ingot", "amount": 1},
+            {"name": "Ragstone", "amount": 1},
+            {"name": "Wind Shard", "amount": 1},
+            {"name": "Ice Shard", "amount": 1}
+        ]
+    },
+    {
+        "item" : {"name": "Ash Spinning Wheel", "equipable": true},
+        "crafting_class": "CRP",
+        "level": 11,
+        "yield": 1,
+        "durability": 60,
+        "quality": 290,
+        "components": [
+            {"name": "Ash Lumber", "amount": 2},
+            {"name": "Bronze Rivets", "amount": 2},
+            {"name": "Wind Shard", "amount": 1},
+            {"name": "Ice Shard", "amount": 1}
+        ]
+    },
+    {
+        "item": {"name": "Amateur's Fishing Rod", "equipable": true},
+        "crafting_class": "CRP",
+        "level": 12,
+        "yield": 1,
+        "durability": 60,
+        "quality": 290,
+        "components": [
+            {"name": "Ash Lumber", "amount": 1},
+            {"name": "Ash Branch", "amount": 1},
+            {"name": "Bronze Ingot", "amount": 1},
+            {"name": "Wind Shard", "amount": 1},
+            {"name": "Ice Shard", "amount": 1}
+        ]
+    },
+    {
+        "item": {"name": "Feathered Harpoon", "equipable": true},
+        "crafting_class": "CRP",
+        "level": 13,
+        "yield": 1,
+        "durability": 60,
+        "quality": 310,
+        "components": [
+            {"name": "Ash Lumber", "amount": 1},
+            {"name": "Crow Feather", "amount": 1},
+            {"name": "Spoiled Femur", "amount": 1, "source": [
+                {"type": "MIN - Mining", "location": "Western Thanalan: Hammerlea", "node_level": 10},
+                {"type": "MIN - Mining", "location": "Central Thanalan: Black Brush", "node_level": 10}
+            ]},
+            {"name": "Animal Glue", "amount": 1},
+            {"name": "Wind Shard", "amount": 1},
+            {"name": "Ice Shard", "amount": 1}
+        ]
+    },
+    {
+        "item": {"name": "Ash Radical", "equipable": true},
+        "crafting_class": "CRP",
+        "level": 13,
+        "yield": 1,
+        "durability": 60,
+        "quality": 310,
+        "components": [
+            {"name": "Ash Branch", "amount": 1},
+            {"name": "Bone Chip", "amount": 1},
+            {"name": "Beastkin Blood", "amount": 1},
+            {"name": "Wind Shard", "amount": 1},
+            {"name": "Ice Shard", "amount": 1}
+        ]
+    },
+    {
+        "item": {"name": "Brass Spear", "equipable": true},
+        "crafting_class": "CRP",
+        "level": 14,
+        "yield": 1,
+        "durability": 60,
+        "quality": 330,
+        "components": [
+            {"name": "Maple Lumber", "amount": 1},
+            {"name": "Fish Oil", "amount": 1},
+            {"name": "Bronze Ingot", "amount": 1},
+            {"name": "Brass Ingot", "amount": 1},
+            {"name": "Wind Shard", "amount": 1},
+            {"name": "Ice Shard", "amount": 1}
+        ]
+    },
+    {
+        "item": {"name": "Ash Mask", "equipable": true},
+        "crafting_class": "CRP",
+        "level": 14,
+        "yield": 1,
+        "durability": 60,
+        "quality": 330,
+        "components": [
+            {"name": "Ash Lumber", "amount": 1},
+            {"name": "Leather", "amount": 1},
+            {"name": "Fish Oil", "amount": 1},
+            {"name": "Wind Shard", "amount": 1},
+            {"name": "Ice Shard", "amount": 1}
+        ]
+    },
+    {
+        "item": {"name": "Ash Pattens", "equipable": true},
+        "crafting_class": "CRP",
+        "level": 14,
+        "yield": 1,
+        "durability": 60,
+        "quality": 330,
+        "components": [
+            {"name": "Ash Lumber", "amount": 1},
+            {"name": "Undyed Hempen Cloth", "amount": 1},
+            {"name": "Leather", "amount": 1},
+            {"name": "Wind Shard", "amount": 1},
+            {"name": "Ice Shard", "amount": 1}
+        ]
+    },
+    {
+        "item" : {"name" : "Wrapped Maple Longbow", "equipable" : true},
+        "crafting_class" : "CRP",
+        "level" : 15,
+        "yield" : 1,
+        "durability" : 70,
+        "quality" : 270,
+        "components" : [
+            {"name" : "Maple Longbow", "amount": 1},
+            {"name" : "Ash Branch", "amount": 2},
+            {"name" : "Hard Lether", "amount": 1},
+            {"name" : "Wind Shard", "amount": 1},
+            {"name" : "Ice Shard", "amount": 1}
+        ]
+    },
+    {
+        "item": {"name": "Ash Shortbow", "equipable": true},
+        "crafting_class": "CRP",
+        "level": 15,
+        "yield": 1,
+        "durability": 70,
+        "quality": 360,
+        "components": [
+            {"name": "Ash Lumber", "amount": 1},
+            {"name": "Ash Branch", "amount": 1},
+            {"name": "Hempen Yarn", "amount": 1},
+            {"name": "Wind Shard", "amount": 1},
+            {"name": "Ice Shard", "amount": 1}
+        ]
+    },
+    {
+        "item": {"name": "Square Ash Shield", "equipable": true},
+        "crafting_class": "CRP",
+        "level": 15,
+        "yield": 1,
+        "durability": 70,
+        "quality": 360,
+        "components": [
+            {"name": "Ash Lumber", "amount": 1},
+            {"name": "Bronze Rivets", "amount": 2},
+            {"name": "Wind Shard", "amount": 1},
+            {"name": "Ice Shard", "amount": 1}
+        ]
+    },
+    {
+        "item": {"name": "Elm Lumber", "equipable": false},
+        "crafting_class": "CRP",
+        "level": 16,
+        "yield": 1,
+        "durability": 40,
+        "quality": 312,
+        "components": [
+            {"name": "Elm Log", "amount": 3}
+        ]
+    },
+    {
+        "item": {"name": "Elm Fishing Rod", "equipable": true},
+        "crafting_class": "CRP",
+        "level": 16,
+        "yield": 1,
+        "durability": 70,
+        "quality": 390,
+        "components": [
+            {"name": "Elm Lumber", "amount": 1},
+            {"name": "Ash Branch", "amount": 1},
+            {"name": "Iron Ingot", "amount": 1},
+            {"name": "Wind Shard", "amount": 1},
+            {"name": "Ice Shard", "amount": 1}
+        ]
+    },
+    {
+        "item": {"name": "Iron Spear", "equipable": true},
+        "crafting_class": "CRP",
+        "level": 17,
+        "yield": 1,
+        "durability": 70,
+        "quality": 420,
+        "components": [
+            {"name": "Elm Lumber", "amount": 1},
+            {"name": "Iron Ingot", "amount": 1},
+            {"name": "Clove Oil", "amount": 1},
+            {"name": "Wind Shard", "amount": 1},
+            {"name": "Ice Shard", "amount": 1}
+        ]
+    },
+    {
+        "item" : {"name" : "Elm Cane", "equipable" : true},
+        "crafting_class" : "CRP",
+        "level" : 18,
+        "yield" : 1,
+        "durability" : 70,
+        "quality" : 450,
+        "components" : [
+            {"name" : "Elm Lumber", "amount" : 1},
+            {"name" : "Growth Formula Beta", "amount" : 1},
+            {"name" : "Wind Shard", "amount" : 1},
+            {"name" : "Ice Shard", "amount": 1}
+        ]
+    },
+    {
+        "item": {"name": "Elm Longbow", "equipable": true},
+        "crafting_class": "CRP",
+        "level": 19,
+        "yield": 1,
+        "durability": 70,
+        "quality": 480,
+        "components": [
+            {"name": "Elm Lumber", "amount": 1},
+            {"name": "Ash Branch", "amount": 2},
+            {"name": "Cotton Yarn", "amount": 1},
+            {"name": "Wind Shard", "amount": 1},
+            {"name": "Ice Shard", "amount": 1}
+        ]
+    },
+    {
+        "item": {"name": "Elm Crook", "equipable": true},
+        "crafting_class": "CRP",
+        "level": 19,
+        "yield": 1,
+        "durability": 70,
+        "quality": 480,
+        "components": [
+            {"name": "Elm Lumber", "amount": 1},
+            {"name": "Beastkin Blood", "amount": 2},
+            {"name": "Wind Shard", "amount": 1},
+            {"name": "Ice Shard", "amount": 1}
+        ]
+    },
+    {
+        "item": {"name": "Initiate`s Spinning Wheel", "equipable": true},
+        "crafting_class": "CRP",
+        "level": 19,
+        "yield": 1,
+        "durability": 70,
+        "quality": 480,
+        "components": [
+            {"name": "Elm Lumber", "amount": 2},
+            {"name": "Bronze Rivets", "amount": 2},
+            {"name": "Wind Shard", "amount": 1},
+            {"name": "Ice Shard", "amount": 1}
+        ]
+    },
+    {
+        "item" : {"name" : "Blank Grade 1 Orchestrion Roll", "equipable" : false},
+        "crafting_class" : "CRP",
+        "level" : 20,
+        "yield" : 1,
+        "durability" : 40,
+        "quality" : 408,
+        "components" : [
+            {"name" : "Moko Grass", "amount" : 1},
+            {"name" : "Elm Log", "amount" : 1},
+            {"name" : "Wind Shard", "amount" : 1}
+        ]
+    },
+    {
+        "item": {"name": "Iron Lance", "equipable": true},
+        "crafting_class": "CRP",
+        "level": 20,
+        "yield": 1,
+        "durability": 70,
+        "quality": 510,
+        "components": [
+            {"name": "Elm Lumber", "amount": 1},
+            {"name": "Iron Ingot", "amount": 2},
+            {"name": "Hard Leather", "amount": 1},
+            {"name": "Wind Shard", "amount": 1},
+            {"name": "Ice Shard", "amount": 1}
+        ]
+    },
+    {
+        "item": {"name": "Initiate`s Fishing Rod", "equipable": true},
+        "crafting_class": "CRP",
+        "level": 20,
+        "yield": 1,
+        "durability": 70,
+        "quality": 510,
+        "components": [
+            {"name": "Elm Lumber", "amount": 1},
+            {"name": "Yew Branch", "amount": 1, "source": [
+                {"type": "BTN - Logging", "location": "East Shroud: Nine Ivies", "node_level": 20}
+            ]},
+            {"name": "Iron Ingot", "amount": 1},
+            {"name": "Wind Shard", "amount": 1},
+            {"name": "Ice Shard", "amount": 1}
+        ]
+    }
+]

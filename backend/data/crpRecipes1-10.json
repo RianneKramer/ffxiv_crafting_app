@@ -1,0 +1,281 @@
+[
+    {
+        "item": {"name": "Maple Lumber", "equipable": false},
+        "crafting_class": "CRP",
+        "level": 1,
+        "yield": 1,
+        "durability": 40,
+        "quality": 90,
+        "components": [
+            {"name": "Maple Log", "amount": 3, "source": [
+                { "type": "BTN - Logging", "location": "Central Shroud: Jadeite Thick", "node_level": 5},
+                { "type": "BTN - Logging", "location": "North Shroud: Treespeak", "node_level": 5}
+            ]},
+            {"name": "Wind Shard", "amount": 1, "source": [
+                { "type": "BTN - Logging", "location": "Central Shroud: Jadeite Thick", "node_level": 5},
+                { "type": "MIN - Mining", "location": "Central Thanalan: Spineless Basin", "node_level": 5}
+            ]}
+        ]
+    },
+    {
+        "item": {"name": "Maple Clogs", "equipable": true},
+        "crafting_class": "CRP",
+        "level": 1,
+        "yield": 1,
+        "durability": 60,
+        "quality": 100,
+        "components": [
+            {"name": "Maple Lumber", "amount": 1},
+            {"name": "Wind Shard", "amount": 1},
+            {"name": "Ice Shard", "amount": 1, "source": [
+                { "type": "BTN - Logging", "location": "Central Shroud: Jadeite Thick", "node_level": 5}
+            ]}
+        ]
+    },
+    {
+        "item": {"name": "Maple Shortbow", "equipable": true},
+        "crafting_class": "CRP",
+        "level": 2,
+        "yield": 1,
+        "durability": 60,
+        "quality": 110,
+        "components": [
+            {"name": "Maple Lumber", "amount": 1},
+            {"name": "Hempen Yarn", "amount": 1},
+            {"name": "Wind Shard", "amount": 1},
+            {"name": "Ice Shard", "amount": 1}
+        ]
+    },
+    {
+        "item": {"name": "Bone Harpoon", "equipable": true},
+        "crafting_class": "CRP",
+        "level": 3,
+        "yield": 1,
+        "durability": 60,
+        "quality": 120,
+        "components": [
+            {"name": "Maple Lumber", "amount": 1},
+            {"name": "Bone Chip", "amount": 1, "source": [
+                { "type": "MIN - Mining", "location": "Central Thanalan: Spineless Basin", "node_level": 5}
+            ]},
+            {"name": "Animal Glue", "amount": 1},
+            {"name": "Wind Shard", "amount": 1},
+            {"name": "Ice Shard", "amount": 1}
+        ]
+    },
+    {
+        "item": {"name": "Amateur`s Grinding Wheel", "equipable": true},
+        "crafting_class": "CRP",
+        "level": 4,
+        "yield": 1,
+        "durability": 60,
+        "quality": 130,
+        "components": [
+            {"name": "Maple Lumber", "amount": 1},
+            {"name": "Bronze Ingot", "amount": 1},
+            {"name": "Ragstone", "amount": 1, "source": [
+                { "type": "MIN - Quarrying", "location": "Central Thanalan: Black Brush", "node_level": 15}
+            ]},
+            {"name": "Wind Shard", "amount": 1},
+            {"name": "Ice Shard", "amount": 1}
+        ]
+    },
+    {
+        "item": {"name": "Maple Pattens", "equipable": true},
+        "crafting_class": "CRP",
+        "level": 4,
+        "yield": 1,
+        "durability": 60,
+        "quality": 130,
+        "components": [
+            {"name": "Maple Lumber", "amount": 1},
+            {"name": "Undyed Hempen Cloth", "amount": 1},
+            {"name": "Leather", "amount": 1},
+            {"name": "Wind Shard", "amount": 1},
+            {"name": "Ice Shard", "amount": 1}
+        ]
+    },
+    {
+        "item": {"name": "Amateur`s Spinning Wheel", "equipable": true},
+        "crafting_class": "CRP",
+        "level": 5,
+        "yield": 1,
+        "durability": 60,
+        "quality": 150,
+        "components": [
+            {"name": "Maple Lumber", "amount": 2},
+            {"name": "Bronze Rivets", "amount": 2},
+            {"name": "Wind Shard", "amount": 1},
+            {"name": "Ice Shard", "amount": 1}
+        ]
+    },
+    {
+        "item": {"name": "Square Maple Shield", "equipable": true},
+        "crafting_class": "CRP",
+        "level": 5,
+        "yield": 1,
+        "durability": 60,
+        "quality": 150,
+        "components": [
+            {"name": "Maple Lumber", "amount": 1},
+            {"name": "Bronze Rivets", "amount": 2},
+            {"name": "Wind Shard", "amount": 1},
+            {"name": "Ice Shard", "amount": 1}
+        ]
+    },
+    {
+        "item": {"name": "Bronze Spear", "equipable": true},
+        "crafting_class": "CRP",
+        "level": 6,
+        "yield": 1,
+        "durability": 60,
+        "quality": 170,
+        "components": [
+            {"name": "Maple Lumber", "amount": 1},
+            {"name": "Fish Oil", "amount": 1},
+            {"name": "Bronze Ingot", "amount": 1},
+            {"name": "Wind Shard", "amount": 1},
+            {"name": "Ice Shard", "amount": 1}
+        ]
+    },
+    {
+        "item": {"name": "Maple Cane", "equipable": true},
+        "crafting_class": "CRP",
+        "level": 6,
+        "yield": 1,
+        "durability": 60,
+        "quality": 170,
+        "components": [
+            {"name": "Maple Lumber", "amount": 1},
+            {"name": "Growth Formula Alpha", "amount": 1},
+            {"name": "Wind Shard", "amount": 1},
+            {"name": "Ice Shard", "amount": 1}
+        ]
+    },
+    {
+        "item": {"name": "Maple Longbow", "equipable": true},
+        "crafting_class": "CRP",
+        "level": 7,
+        "yield": 1,
+        "durability": 60,
+        "quality": 190,
+        "components": [
+            {"name": "Maple Lumber", "amount": 1},
+            {"name": "Maple Branch", "amount": 1, "source": [
+                { "type": "BTN - Logging", "location": "Central Shroud: Jadeite Thick", "node_level": 5},
+                { "type": "BTN - Logging", "location": "North Shroud: Treespeak", "node_level": 5}
+            ]},
+            {"name": "Hempen Yarn", "amount": 1},
+            {"name": "Wind Shard", "amount": 1},
+            {"name": "Ice Shard", "amount": 1}
+        ]
+    },
+    {
+        "item": {"name": "Maple Crook", "equipable": true},
+        "crafting_class": "CRP",
+        "level": 8,
+        "yield": 1,
+        "durability": 60,
+        "quality": 210,
+        "components": [
+            {"name": "Maple Lumber", "amount": 1},
+            {"name": "Beastkin Blood", "amount": 1, "source": [
+                { "type": "NPC", "location": "New Gridania: Ferreol"}
+            ]},
+            {"name": "Wind Shard", "amount": 1},
+            {"name": "Ice Shard", "amount": 1}
+        ]
+    },
+    {
+        "item": {"name": "Maple Fishing Rod", "equipable": true},
+        "crafting_class": "CRP",
+        "level": 8,
+        "yield": 1,
+        "durability": 60,
+        "quality": 210,
+        "components": [
+            {"name": "Maple Lumber", "amount": 1},
+            {"name": "Maple Branch", "amount": 1},
+            {"name": "Bronze Ingot", "amount": 1},
+            {"name": "Wind Shard", "amount": 1},
+            {"name": "Ice Shard", "amount": 1}
+        ]
+    },
+    {
+        "item": {"name": "Round Shield", "equipable": true},
+        "crafting_class": "CRP",
+        "level": 9,
+        "yield": 1,
+        "durability": 60,
+        "quality": 230,
+        "components": [
+            {"name": "Maple Lumber", "amount": 1},
+            {"name": "Bronze Rivets", "amount": 2},
+            {"name": "Bronze Ingot", "amount": 1},
+            {"name": "Wind Shard", "amount": 1},
+            {"name": "Ice Shard", "amount": 1}
+        ]
+    },
+    {
+        "item": {"name": "Plumed Maple Shortbow", "equipable": true},
+        "crafting_class": "CRP",
+        "level": 9,
+        "yield": 1,
+        "durability": 60,
+        "quality": 172,
+        "components": [
+            {"name": "Maple Shortbow", "amount": 1},
+            {"name": "Maple Branch", "amount": 1},
+            {"name": "Cock Feather", "amount": 1, "source": [
+                {"type": "BTN - Logging", "location": "Central Thanalan: Spineless Basin", "node_level": 10}
+            ]},
+            {"name": "Wind Shard", "amount": 1},
+            {"name": "Ice Shard", "amount": 1}
+        ]
+    },
+        {
+        "item": {"name": "Ash Lumber", "equipable": false},
+        "crafting_class": "CRP",
+        "level": 10,
+        "yield": 1,
+        "durability": 40,
+        "quality": 200,
+        "components": [
+            {"name": "Ash Log", "amount": 3, "source": [
+                { "type": "BTN - Logging", "location": "North Shroud: Treespeak", "node_level": 10},
+                { "type": "BTN - Logging", "location": "Central Shroud: Greentear", "node_level": 10}
+            ]},
+            {"name": "Wind Shard", "amount": 1}
+        ]
+    },
+    {
+        "item": {"name": "Ash Macuahuitl", "equipable": true},
+        "crafting_class": "CRP",
+        "level": 10,
+        "yield": 1,
+        "durability": 60,
+        "quality": 250,
+        "components": [
+            {"name": "Ash Lumber", "amount": 1},
+            {"name": "Obsidian", "amount": 1, "source": { "type": "MIN - Mining", "location": "Western Thanalan: Hammerlea", "node_level": 10}},
+            {"name": "Wind Shard", "amount": 1},
+            {"name": "Ice Shard", "amount": 1}
+        ]
+    },
+    {
+        "item": {"name": "Ramhorn Harpoon", "equipable": true},
+        "crafting_class": "CRP",
+        "level": 10,
+        "yield": 1,
+        "durability": 60,
+        "quality": 250,
+        "components": [
+            {"name": "Ash Lumber", "amount": 1},
+            {"name": "Ram Horn", "amount": 1, "source": [
+                { "type": "NPC", "location": "New Gridania: Ferreol"}
+            ]},
+            {"name": "Wind Shard", "amount": 1},
+            {"name": "Ice Shard", "amount": 1}
+        ]
+    }
+]

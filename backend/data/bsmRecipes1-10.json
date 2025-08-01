@@ -1,0 +1,414 @@
+[
+    {
+        "item": {"name": "Bronze Ingot", "equipable": false},
+        "crafting_class": "BSM",
+        "level": 1,
+        "yield": 1,
+        "durability": 40,
+        "quality": 80,
+        "components": [
+            {"name": "Copper Ore", "amount": 2, "source": [
+                {"type": "MIN - Mining", "location": "Western Thanalan: Hammerlea", "node_level": 5},
+                {"type": "MIN - Mining", "location": "Central Thanalan: Spineless Basin", "node_level": 5}
+            ]},
+            {"name": "Tin Ore", "amount": 1, "source": [
+                {"type": "MIN - Mining", "location": "Western Thanalan: Hammerlea", "node_level": 10},
+                {"type": "MIN - Mining", "location": "Central Thanalan: Black Brush", "node_level": 10}
+            ]},
+            {"name": "Fire Shard", "amount": 1, "source": {"type": "BTN, MIN", "location": "Various", "node_level": 5}}
+        ],
+        "deleted": true
+    },
+    {
+        "item": {"name": "Bronze Hatchet", "equipable": true},
+        "crafting_class": "BSM",
+        "level": 1,
+        "yield": 1,
+        "durability": 60,
+        "quality": 100,
+        "components": [
+            {"name": "Bronze Ingot", "amount": 1},
+            {"name": "Maple Lumber", "amount": 1},
+            {"name": "Fire Shard", "amount": 1},
+            {"name": "Earth Shard", "amount": 1, "source": {"type": "BTN, MIN", "location": "Various", "node_level": 5}}
+        ]
+    },
+    {
+        "item": {"name": "Bronze Bastard Sword", "equipable": true},
+        "crafting_class": "BSM",
+        "level": 2,
+        "yield": 1,
+        "durability": 60,
+        "quality": 110,
+        "components": [
+            {"name": "Bronze Ingot", "amount": 1},
+            {"name": "Maple Lumber", "amount": 1},
+            {"name": "Bone Chip", "amount": 1},
+            {"name": "Fire Shard", "amount": 1},
+            {"name": "Earth Shard", "amount": 1}
+        ]
+    },
+    {
+        "item": {"name": "Amateur`s File", "equipable": true},
+        "crafting_class": "BSM",
+        "level": 2,
+        "yield": 1,
+        "durability": 60,
+        "quality": 110,
+        "components": [
+            {"name": "Bronze Ingot", "amount": 2},
+            {"name": "Leather", "amount": 1},
+            {"name": "Fire Shard", "amount": 1},
+            {"name": "Earth Shard", "amount": 1}
+        ]
+    },
+    {
+        "item": {"name": "Bronze Rivets", "equipable": false},
+        "crafting_class": "BSM",
+        "level": 3,
+        "yield": 1,
+        "durability": 40,
+        "quality": 96,
+        "components": [
+            {"name": "Bronze Ingot", "amount": 1},
+            {"name": "Fire Shard", "amount": 1}
+        ]
+    },
+    {
+        "item": {"name": "Bronze War Axe", "equipable": true},
+        "crafting_class": "BSM",
+        "level": 3,
+        "yield": 1,
+        "durability": 60,
+        "quality": 120,
+        "components": [
+            {"name": "Bronze Ingot", "amount": 2},
+            {"name": "Maple Lumber", "amount": 1},
+            {"name": "Fire Shard", "amount": 1},
+            {"name": "Earth Shard", "amount": 1}
+        ]
+    },
+    {
+        "item": {"name": "Amateur`s Pliers", "equipable": true},
+        "crafting_class": "BSM",
+        "level": 3,
+        "yield": 1,
+        "durability": 60,
+        "quality": 120,
+        "components": [
+            {"name": "Bronze Ingot", "amount": 1},
+            {"name": "Bronze Rivets", "amount": 1},
+            {"name": "Fish Oil", "amount": 1},
+            {"name": "Fire Shard", "amount": 1},
+            {"name": "Earth Shard", "amount": 1}
+        ]
+    },
+    {
+        "item": {"name": "Bronze Saw", "equipable": true},
+        "crafting_class": "BSM",
+        "level": 4,
+        "yield": 1,
+        "durability": 60,
+        "quality": 130,
+        "components": [
+            {"name": "Bronze Ingot", "amount": 1},
+            {"name": "Bronze Rivets", "amount": 1},
+            {"name": "Maple Lumber", "amount": 1},
+            {"name": "Fire Shard", "amount": 1},
+            {"name": "Earth Shard", "amount": 1}
+        ]
+    },
+    {
+        "item": {"name": "Amateur`s Awl", "equipable": true},
+        "crafting_class": "BSM",
+        "level": 4,
+        "yield": 1,
+        "durability": 60,
+        "quality": 130,
+        "components": [
+            {"name": "Bronze Ingot", "amount": 1},
+            {"name": "Maple Lumber", "amount": 1},
+            {"name": "Fish Oil", "amount": 1},
+            {"name": "Fire Shard", "amount": 1},
+            {"name": "Earth Shard", "amount": 1}
+        ]
+    },
+    {
+        "item": {"name": "Bronze Daggers", "equipable": true},
+        "crafting_class": "BSM",
+        "level": 5,
+        "yield": 1,
+        "durability": 60,
+        "quality": 150,
+        "components": [
+            {"name": "Bronze Ingot", "amount": 2},
+            {"name": "Maple Lumber", "amount": 1},
+            {"name": "Bone Chip", "amount": 1},
+            {"name": "Fire Shard", "amount": 1},
+            {"name": "Earth Shard", "amount": 1}
+        ]
+    },
+    {
+        "item": {"name": "Amateur`s Claw Hammer", "equipable": true},
+        "crafting_class": "BSM",
+        "level": 5,
+        "yield": 1,
+        "durability": 60,
+        "quality": 150,
+        "components": [
+            {"name": "Bronze Ingot", "amount": 1},
+            {"name": "Maple Lumber", "amount": 1},
+            {"name": "Fish Oil", "amount": 1},
+            {"name": "Fire Shard", "amount": 1},
+            {"name": "Earth Shard", "amount": 1}
+        ]
+    },
+    {
+        "item": {"name": "Bronze Cross-pein Hammer", "equipable": true},
+        "crafting_class": "BSM",
+        "level": 5,
+        "yield": 1,
+        "durability": 60,
+        "quality": 150,
+        "components": [
+            {"name": "Bronze Ingot", "amount": 1},
+            {"name": "Undyed Hempen Cloth", "amount": 1},
+            {"name": "Maple Lumber", "amount": 1},
+            {"name": "Fire Shard", "amount": 1},
+            {"name": "Earth Shard", "amount": 1}
+        ]
+    },
+    {
+        "item": {"name": "Bronze Doming Hammer", "equipable": true},
+        "crafting_class": "BSM",
+        "level": 5,
+        "yield": 1,
+        "durability": 60,
+        "quality": 150,
+        "components": [
+            {"name": "Bronze Ingot", "amount": 1},
+            {"name": "Maple Lumber", "amount": 1},
+            {"name": "Fire Shard", "amount": 1},
+            {"name": "Earth Shard", "amount": 1}
+        ]
+    },
+    {
+        "item": {"name": "Amateur`s Mortar", "equipable": true},
+        "crafting_class": "BSM",
+        "level": 6,
+        "yield": 1,
+        "durability": 60,
+        "quality": 170,
+        "components": [
+            {"name": "Bronze Ingot", "amount": 2},
+            {"name": "Maple Lumber", "amount": 1},
+            {"name": "Fire Shard", "amount": 1},
+            {"name": "Earth Shard", "amount": 1}
+        ]
+    },
+    {
+        "item": {"name": "Amateur`s Culinary Knife", "equipable": true},
+        "crafting_class": "BSM",
+        "level": 6,
+        "yield": 1,
+        "durability": 60,
+        "quality": 170,
+        "components": [
+            {"name": "Bronze Ingot", "amount": 1},
+            {"name": "Maple Lumber", "amount": 1},
+            {"name": "Ragstone Whetstone", "amount": 1},
+            {"name": "Fire Shard", "amount": 1},
+            {"name": "Earth Shard", "amount": 1}
+        ]
+    },
+    {
+        "item": {"name": "Viking Sword", "equipable": true},
+        "crafting_class": "BSM",
+        "level": 7,
+        "yield": 1,
+        "durability": 60,
+        "quality": 190,
+        "components": [
+            {"name": "Bronze Ingot", "amount": 1},
+            {"name": "Leather", "amount": 1},
+            {"name": "Bone Chip", "amount": 1},
+            {"name": "Fire Shard", "amount": 1},
+            {"name": "Earth Shard", "amount": 1}
+        ]
+    },
+    {
+        "item": {"name": "Bronze Labrys", "equipable": true},
+        "crafting_class": "BSM",
+        "level": 7,
+        "yield": 1,
+        "durability": 60,
+        "quality": 190,
+        "components": [
+            {"name": "Bronze Ingot", "amount": 2},
+            {"name": "Maple Lumber", "amount": 1},
+            {"name": "Fire Shard", "amount": 1},
+            {"name": "Earth Shard", "amount": 1}
+        ]
+    },
+    {
+        "item": {"name": "Bronze Chaser Hammer", "equipable": true},
+        "crafting_class": "BSM",
+        "level": 7,
+        "yield": 1,
+        "durability": 60,
+        "quality": 190,
+        "components": [
+            {"name": "Bronze Ingot", "amount": 1},
+            {"name": "Bronze Rivets", "amount": 1},
+            {"name": "Maple Lumber", "amount": 1},
+            {"name": "Fire Shard", "amount": 1},
+            {"name": "Earth Shard", "amount": 1}
+        ]
+    },
+    {
+        "item": {"name": "Bronze Knives", "equipable": true},
+        "crafting_class": "BSM",
+        "level": 8,
+        "yield": 1,
+        "durability": 60,
+        "quality": 210,
+        "components": [
+            {"name": "Bronze Ingot", "amount": 2},
+            {"name": "Maple Lumber", "amount": 1},
+            {"name": "Fire Shard", "amount": 1},
+            {"name": "Earth Shard", "amount": 1}
+        ]
+    },
+    {
+        "item": {"name": "Bronze Head Knife", "equipable": true},
+        "crafting_class": "BSM",
+        "level": 8,
+        "yield": 1,
+        "durability": 60,
+        "quality": 210,
+        "components": [
+            {"name": "Bronze Ingot", "amount": 1},
+            {"name": "Maple Lumber", "amount": 1},
+            {"name": "Ragstone Whetstone", "amount": 1},
+            {"name": "Fire Shard", "amount": 1},
+            {"name": "Earth Shard", "amount": 1}
+        ]
+    },
+    {
+        "item": {"name": "Bronze Pickaxe", "equipable": true},
+        "crafting_class": "BSM",
+        "level": 8,
+        "yield": 1,
+        "durability": 60,
+        "quality": 210,
+        "components": [
+            {"name": "Bronze Ingot", "amount": 1},
+            {"name": "Undyed Hempen Cloth", "amount": 1},
+            {"name": "Maple Lumber", "amount": 1},
+            {"name": "Fire Shard", "amount": 1},
+            {"name": "Earth Shard", "amount": 1}
+        ]
+    },
+    {
+        "item": {"name": "Cloud Axe", "equipable": true},
+        "crafting_class": "BSM",
+        "level": 9,
+        "yield": 1,
+        "durability": 60,
+        "quality": 172,
+        "components": [
+            {"name": "Bronze War Axe", "amount": 1},
+            {"name": "Bronze Ingot", "amount": 1},
+            {"name": "Fire Shard", "amount": 1},
+            {"name": "Earth Shard", "amount": 1}
+        ]
+    },
+    {
+        "item": {"name": "Bronze Claw Hammer", "equipable": true},
+        "crafting_class": "BSM",
+        "level": 9,
+        "yield": 1,
+        "durability": 60,
+        "quality": 230,
+        "components": [
+            {"name": "Bronze Ingot", "amount": 1},
+            {"name": "Maple Lumber", "amount": 1},
+            {"name": "Fish Oil", "amount": 1},
+            {"name": "Fire Shard", "amount": 1},
+            {"name": "Earth Shard", "amount": 1}
+        ]
+    },
+    {
+        "item": {"name": "Bronze Baselards", "equipable": true},
+        "crafting_class": "BSM",
+        "level": 10,
+        "yield": 1,
+        "durability": 60,
+        "quality": 250,
+        "components": [
+            {"name": "Bronze Ingot", "amount": 2},
+            {"name": "Ash Lumber", "amount": 1},
+            {"name": "Fire Shard", "amount": 1},
+            {"name": "Earth Shard", "amount": 1}
+        ]
+    },
+    {
+        "item": {"name": "Amateur`s Cross-pein Hammer", "equipable": true},
+        "crafting_class": "BSM",
+        "level": 10,
+        "yield": 1,
+        "durability": 60,
+        "quality": 250,
+        "components": [
+            {"name": "Bronze Ingot", "amount": 1},
+            {"name": "Ash Lumber", "amount": 1},
+            {"name": "Undyed Hempen Cloth", "amount": 1},
+            {"name": "Fire Shard", "amount": 1},
+            {"name": "Earth Shard", "amount": 1}
+        ]
+    },
+    {
+        "item": {"name": "Bronze File", "equipable": true},
+        "crafting_class": "BSM",
+        "level": 10,
+        "yield": 1,
+        "durability": 60,
+        "quality": 250,
+        "components": [
+            {"name": "Bronze Ingot", "amount": 2},
+            {"name": "Hard Leather", "amount": 1},
+            {"name": "Fire Shard", "amount": 1},
+            {"name": "Earth Shard", "amount": 1}
+        ]
+    },
+    {
+        "item": {"name": "Bronze Pliers", "equipable": true},
+        "crafting_class": "BSM",
+        "level": 10,
+        "yield": 1,
+        "durability": 60,
+        "quality": 250,
+        "components": [
+            {"name": "Bronze Ingot", "amount": 1},
+            {"name": "Bronze Rivets", "amount": 1},
+            {"name": "Clove Oil", "amount": 1},
+            {"name": "Fire Shard", "amount": 1},
+            {"name": "Earth Shard", "amount": 1}
+        ]
+    },
+    {
+        "item": {"name": "Amateur`s Chaser Hammer", "equipable": true},
+        "crafting_class": "BSM",
+        "level": 10,
+        "yield": 1,
+        "durability": 60,
+        "quality": 250,
+        "components": [
+            {"name": "Bronze Ingot", "amount": 1},
+            {"name": "Ash Lumber", "amount": 1},
+            {"name": "Bronze Rivets", "amount": 1},
+            {"name": "Fire Shard", "amount": 1},
+            {"name": "Earth Shard", "amount": 1}
+        ]
+    }
+]

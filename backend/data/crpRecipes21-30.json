@@ -1,0 +1,342 @@
+[
+    {
+        "item": {"name": "Yew Lumber", "equipable": false},
+        "crafting_class": "CRP",
+        "level": 21,
+        "yield": 1,
+        "durability": 40,
+        "quality": 432,
+        "components": [
+            {"name": "Yew Log", "amount": 3, "source": [
+                {"type": "BTN - Logging", "location": "East Shroud: Nine Ivies", "node_level": 20}
+            ]},
+            {"name": "Wind Shard", "amount": 2}
+        ]
+    },
+    {
+        "item": {"name": "Elm Velocity Bow", "equipable": true},
+        "crafting_class": "CRP",
+        "level": 21,
+        "yield": 1,
+        "durability": 70,
+        "quality": 405,
+        "components": [
+            {"name": "Ash Shortbow", "amount": 1},
+            {"name": "Elm Lumber", "amount": 1},
+            {"name": "Crow Feather", "amount": 1},
+            {"name": "Wind Shard", "amount": 2},
+            {"name": "Ice Shard", "amount": 1}
+        ]
+    },
+    {
+        "item": {"name": "Yew Radical", "equipable": true},
+        "crafting_class": "CRP",
+        "level": 21,
+        "yield": 1,
+        "durability": 70,
+        "quality": 540,
+        "components": [
+            {"name": "Yew Brench", "amount": 1},
+            {"name": "Sunrise Tellin", "amount": 1, "source": [
+                {"type": "MIN - Mining", "location": "Western La Noscea: Skull Valley", "node_level": 20}
+            ]},
+            {"name": "Beastkin Blood", "amount": 1},
+            {"name": "Wind Shard", "amount": 2},
+            {"name": "Ice Shard", "amount": 1}
+        ]
+    },
+    {
+        "item": {"name": "Iron Guisarme", "equipable": true},
+        "crafting_class": "CRP",
+        "level": 22,
+        "yield": 1,
+        "durability": 70,
+        "quality": 570,
+        "components": [
+            {"name": "Elm Lumber", "amount": 1},
+            {"name": "Iron Ingot", "amount": 1},
+            {"name": "Animal Glue", "amount": 1},
+            {"name": "Wind Shard", "amount": 2},
+            {"name": "Ice Shard", "amount": 1}
+        ]
+    },
+    {
+        "item": {"name": "Mudstone Grinding Wheel", "equipable": true},
+        "crafting_class": "CRP",
+        "level": 22,
+        "yield": 1,
+        "durability": 70,
+        "quality": 570,
+        "components": [
+            {"name": "Elm Lumber", "amount": 1},
+            {"name": "Iron Ingot", "amount": 1},
+            {"name": "Mudstone", "amount": 1, "source": [
+                {"type": "MIN - Quarrying", "location": "Western La Noscea: Skull Valley", "node_level": 20}
+            ]},
+            {"name": "Wind Shard", "amount": 2},
+            {"name": "Ice Shard", "amount": 1}
+        ]
+    },
+    {
+        "item": {"name": "Elm Spinning Wheel", "equipable": true},
+        "crafting_class": "CRP",
+        "level": 23,
+        "yield": 1,
+        "durability": 70,
+        "quality": 570,
+        "components": [
+            {"name": "Elm Lumber", "amount": 2},
+            {"name": "Iron Rivets", "amount": 2},
+            {"name": "Wind Shard", "amount": 2},
+            {"name": "Ice Shard", "amount": 1}
+        ]
+    },
+    {
+        "item": {"name": "Wrapped Elm Longbow", "equipable": true},
+        "crafting_class": "CRP",
+        "level": 24,
+        "yield": 1,
+        "durability": 70,
+        "quality": 472,
+        "components": [
+            {"name": "Wrapped Maple Longbow", "amount": 1},
+            {"name": "Elm Lumber", "amount": 1},
+            {"name": "Hard Leather", "amount": 1},
+            {"name": "Wind Shard", "amount": 2},
+            {"name": "Ice Shard", "amount": 2}
+        ]
+    },
+    {
+        "item": {"name": "Yew Crook", "equipable": true},
+        "crafting_class": "CRP",
+        "level": 24,
+        "yield": 1,
+        "durability": 70,
+        "quality": 630,
+        "components": [
+            {"name": "Yew Lumber", "amount": 1},
+            {"name": "Beastkin Blood", "amount": 1},
+            {"name": "Wind Shard", "amount": 2},
+            {"name": "Ice Shard", "amount": 2}
+        ]
+    },
+    {
+        "item": {"name": "Elm Pattens", "equipable": false},
+        "crafting_class": "CRP",
+        "level": 24,
+        "yield": 1,
+        "durability": 70,
+        "quality": 630,
+        "components": [
+            {"name": "Elm Lumber", "amount": 1},
+            {"name": "Undyed Hempen Cloth", "amount": 1},
+            {"name": "Hard Leather", "amount": 1},
+            {"name": "Wind Shard", "amount": 2},
+            {"name": "Ice Shard", "amount": 2}
+        ]
+    },
+    {
+        "item": {"name": "Walnut Lumber", "equipable": false},
+        "crafting_class": "CRP",
+        "level": 25,
+        "yield": 1,
+        "durability": 40,
+        "quality": 528,
+        "components": [
+            {"name": "Walnut Log", "amount": 3, "source": [
+                {"type": "BTN - Logging", "location": "South Shroud: Upper Paths", "node_level": 25}
+            ]},
+            {"name": "Wind Shard", "amount": 2}
+        ]
+    },
+    {
+        "item": {"name": "Initiate`s Grinding Wheel", "equipable": true},
+        "crafting_class": "CRP",
+        "level": 25,
+        "yield": 1,
+        "durability": 70,
+        "quality": 660,
+        "components": [
+            {"name": "Walnut Lumber", "amount": 1},
+            {"name": "Iron Ingot", "amount": 1},
+            {"name": "Mudstone", "amount": 1},
+            {"name": "Wind Shard", "amount": 2},
+            {"name": "Ice Shard", "amount": 2}
+        ]
+    },
+    {
+        "item": {"name": "Yew Fishing Rod", "equipable": true},
+        "crafting_class": "CRP",
+        "level": 25,
+        "yield": 1,
+        "durability": 70,
+        "quality": 660,
+        "components": [
+            {"name": "Yew Lumber", "amount": 1},
+            {"name": "Yew Branch", "amount": 1},
+            {"name": "Iron Ingot", "amount": 1},
+            {"name": "Jellyfish Humours", "amount": 1},
+            {"name": "Wind Shard", "amount": 2},
+            {"name": "Ice Shard", "amount": 2}
+        ]
+    },
+    {
+        "item": {"name": "Ash Composite Bow", "equipable": true},
+        "crafting_class": "CRP",
+        "level": 26,
+        "yield": 1,
+        "durability": 70,
+        "quality": 690,
+        "components": [
+            {"name": "Ash Lumber", "amount": 3},
+            {"name": "Antelope Horn", "amount": 1, "source": [
+                {"type": "HNT - Hunting", "location": "South Shroud: Antelope Stag"}
+            ]},
+            {"name": "Animal Sinew", "amount": 1, "source": [
+                {"type": "NPC", "location": "Ul'dah: Steps of Thal: Aistan"}
+            ]},
+            {"name": "Wind Shard", "amount": 2},
+            {"name": "Ice Shard", "amount": 2}
+        ]
+    },
+    {
+        "item": {"name": "Pastoral Yew Cane", "equipable": true},
+        "crafting_class": "CRP",
+        "level": 26,
+        "yield": 1,
+        "durability": 70,
+        "quality": 690,
+        "components": [
+            {"name": "Yew Lumber", "amount": 1},
+            {"name": "Growth Formula Beta", "amount": 1},
+            {"name": "Brass Ingot", "amount": 1},
+            {"name": "Beastkin Blood", "amount": 1},
+            {"name": "Hempen Yarn", "amount": 1},
+            {"name": "Wind Shard", "amount": 2},
+            {"name": "Ice Shard", "amount": 2}
+        ]
+    },
+    {
+        "item": {"name": "Viper-crested Round Shield", "equipable": true},
+        "crafting_class": "CRP",
+        "level": 26,
+        "yield": 1,
+        "durability": 70,
+        "quality": 690,
+        "components": [
+            {"name": "Walnut Lumber", "amount": 1},
+            {"name": "Aldgoat Leather", "amount": 1},
+            {"name": "Iron Ingot", "amount": 1},
+            {"name": "Iron Rivets", "amount": 1},
+            {"name": "Wind Shard", "amount": 2},
+            {"name": "Ice Shard", "amount": 2}
+        ]
+    },
+    {
+        "item": {"name": "Silver Battle Fork", "equipable": true},
+        "crafting_class": "CRP",
+        "level": 27,
+        "yield": 1,
+        "durability": 70,
+        "quality": 720,
+        "components": [
+            {"name": "Walnut Lumber", "amount": 1},
+            {"name": "Silver Ingot", "amount": 1},
+            {"name": "Crab Oil", "amount": 1},
+            {"name": "Wind Shard", "amount": 3},
+            {"name": "Ice Shard", "amount": 2}
+        ]
+    },
+    {
+        "item": {"name": "Elm Macuahuitl", "equipable": true},
+        "crafting_class": "CRP",
+        "level": 28,
+        "yield": 1,
+        "durability": 70,
+        "quality": 760,
+        "components": [
+            {"name": "Elm Lumber", "amount": 2},
+            {"name": "Obsidian", "amount": 4},
+            {"name": "Wind Shard", "amount": 3},
+            {"name": "Ice Shard", "amount": 2}
+        ]
+    },
+    {
+        "item": {"name": "Steel Halberd", "equipable": true},
+        "crafting_class": "CRP",
+        "level": 29,
+        "yield": 1,
+        "durability": 70,
+        "quality": 800,
+        "components": [
+            {"name": "Walnut Lumber", "amount": 1},
+            {"name": "Aldgoat Leather", "amount": 1},
+            {"name": "Steel Ingot", "amount": 1},
+            {"name": "Iron Ingot", "amount": 1},
+            {"name": "Wind Shard", "amount": 3},
+            {"name": "Ice Shard", "amount": 2}
+        ]
+    },
+    {
+        "item": {"name": "Walnut Cane", "equipable": true},
+        "crafting_class": "CRP",
+        "level": 29,
+        "yield": 1,
+        "durability": 70,
+        "quality": 800,
+        "components": [
+            {"name": "Walnut Lumber", "amount": 1},
+            {"name": "Growth Formula Beta", "amount": 1},
+            {"name": "Wind Shard", "amount": 3},
+            {"name": "Ice Shard", "amount": 2}
+        ]
+    },
+    {
+        "item": {"name": "Staghorn Fishing Rod", "equipable": true},
+        "crafting_class": "CRP",
+        "level": 29,
+        "yield": 1,
+        "durability": 70,
+        "quality": 800,
+        "components": [
+            {"name": "Walnut Lumber", "amount": 1},
+            {"name": "Yew Branch", "amount": 1},
+            {"name": "Steel Ingot", "amount": 1},
+            {"name": "Antelope Horn", "amount": 1},
+            {"name": "Wind Shard", "amount": 3},
+            {"name": "Ice Shard", "amount": 2}
+        ]
+    },
+    {
+        "item": {"name": "Steel Spear", "equipable": true},
+        "crafting_class": "CRP",
+        "level": 30,
+        "yield": 1,
+        "durability": 70,
+        "quality": 850,
+        "components": [
+            {"name": "Walnut Lumber", "amount": 1},
+            {"name": "Steel Ingot", "amount": 1},
+            {"name": "Fish Oil", "amount": 1},
+            {"name": "Wind Shard", "amount": 3},
+            {"name": "Ice Shard", "amount": 3}
+        ]
+    },
+    {
+        "item": {"name": "Plumed Yew Crook", "equipable": true},
+        "crafting_class": "CRP",
+        "level": 30,
+        "yield": 1,
+        "durability": 70,
+        "quality": 637,
+        "components": [
+            {"name": "Yew Crook", "amount": 1},
+            {"name": "Scalekin Blood", "amount": 1, "source": [
+                {"type":"HNT - Hunting", "location": "Esat Shroud: Djigga"}
+            ]},
+            {"name": "Crow Feather", "amount": 1},
+            {"name": "Wind Shard", "amount": 3},
+            {"name": "Ice Shard", "amount": 3}
+        ]
+    }
+]

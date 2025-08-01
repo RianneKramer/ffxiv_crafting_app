@@ -1,0 +1,21 @@
+[
+    {
+        "item": {"name": "Bronze Ingot", "equipable": false},
+        "crafting_class": "ARM",
+        "level": 1,
+        "yield": 1,
+        "durability": 40,
+        "quality": 80,
+        "components": [
+            {"name": "Copper Ore", "amount": 2, "source": [
+                {"type": "MIN - Mining", "location": "Western Thanalan: Hammerlea", "node_level": 5},
+                {"type": "MIN - Mining", "location": "Central Thanalan: Spineless Basin", "node_level": 5}
+            ]},
+            {"name": "Tin Ore", "amount": 1, "source": [
+                {"type": "MIN - Mining", "location": "Western Thanalan: Hammerlea", "node_level": 10},
+                {"type": "MIN - Mining", "location": "Central Thanalan: Black Brush", "node_level": 10}
+            ]},
+            {"name": "Ice Shard", "amount": 1}
+        ]
+    }
+]
