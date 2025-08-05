@@ -1,6 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 const db = require('../db');
+const e = require('express');
 
 async function getOrCreateItemId(name, equipable) {
     const existing = await db.query('SELECT id FROM items WHERE name = $1', [name]);
@@ -35,6 +36,7 @@ async function importRecipes() {
     let totalRecipes = 0;
     let updatedRecipes = 0;
     let newRecipes = 0;
+    let deletedRecipes = 0;
     
     for (const filePath of files) {
         console.log(`📖 Processing ${path.basename(filePath)}...`);
@@ -64,9 +66,10 @@ async function importRecipes() {
                     await db.query('DELETE FROM recipe_components WHERE recipe_id = $1', [recipeId]);
                     await db.query('DELETE FROM recipes WHERE id = $1', [recipeId]);
                     console.log(`   ➖ Deleted: ${recipe.item.name}`);
+                    deletedRecipes++;
                     continue;
                 }
-
+                    
                 // Update existing recipe
                 await db.query(
                     'UPDATE recipes SET crafting_class = $1, level = $2, yield = $3, durability = $4, quality = $5 WHERE id = $6',
@@ -75,6 +78,7 @@ async function importRecipes() {
                 
                 console.log(`   🔄 Updated: ${recipe.item.name}`);
                 updatedRecipes++;
+                
             } else {
                 // Create new recipe
                 const recipeRes = await db.query(

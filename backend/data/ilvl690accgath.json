@@ -1,0 +1,122 @@
+[
+    {
+        "item": {"name": "Claro Walnut Necklace of Gathering", "equipable": true},
+        "crafting_class": "CRP",
+        "level": 99,
+        "yield": 1,
+        "durability": 80,
+        "quality": 11400,
+        "components": [
+            {"name": "Claro Walnut Lumber", "amount": 1},
+            {"name": "Thunderyards Silk", "amount": 1},
+            {"name": "Gargantua Leather", "amount": 1}
+        ]
+    },
+    {
+        "item": {"name": "Claro Walnut Lumber", "equipable": false},
+        "crafting_class": "CRP",
+        "level": 98,
+        "yield": 1,
+        "durability": 40,
+        "quality": 11000,
+        "components": [
+            {"name": "Claro Walnut Log", "amount": 5}
+        ]
+    },
+    {
+        "item": {"name": "Thunderyards Silk", "equipable": false},
+        "crafting_class": "WVR",
+        "level": 98,
+        "yield": 1,
+        "durability": 40,
+        "quality": 11000,
+        "components": [
+            {"name": "Levinsilk", "amount": 5}
+        ]
+    },
+    {
+        "item": {"name": "Gargantua Leather", "equipable": false},
+        "crafting_class": "LTW",
+        "level": 98,
+        "yield": 1,
+        "durability": 40,
+        "quality": 11000,
+        "components": [
+            {"name": "Gargantua Hide", "amount": 4},
+            {"name": "Acacia Bark", "amount": 1}
+        ]
+    },
+    {
+        "item": {"name": "Claro Walnut Bracelet of Gathering", "equipable": true},
+        "crafting_class": "CRP",
+        "level": 99,
+        "yield": 1,
+        "durability": 80,
+        "quality": 11400,
+        "components": [
+            {"name": "Claro Walnut Lumber", "amount": 1},
+            {"name": "Gargantua Leather", "amount": 1},
+            {"name": "Black Star", "amount": 1}
+        ]
+    },
+    {
+        "item": {"name": "Black Star", "equipable": false},
+        "crafting_class": "GSM",
+        "level": 98,
+        "yield": 1,
+        "durability": 40,
+        "quality": 11000,
+        "components": [
+            {"name": "Raw Black Star", "amount": 3},
+            {"name": "Magnesia Whetstone", "amount": 1}
+        ]
+    },
+    {
+        "item": {"name": "Magnesia Whetstone", "equipable": false},
+        "crafting_class": "ALC",
+        "level": 95,
+        "yield": 1,
+        "durability": 40,
+        "quality": 9800,
+        "components": [
+            {"name": "Magnesia Powder", "amount": 4}
+        ]
+    },
+    {
+        "item": {"name": "Black Star Earrings of Gathering", "equipable": true},
+        "crafting_class": "BSM",
+        "level": 100,
+        "yield": 1,
+        "durability": 80,
+        "quality": 12000,
+        "components": [
+            {"name": "Black Star", "amount": 1},
+            {"name": "Thunderyards Silk", "amount": 1},
+            {"name": "Ra'Kaznar Ingot", "amount": 1}
+        ]
+    },
+    {
+        "item": {"name": "Ra'Kaznar Ingot", "equipable": false},
+        "crafting_class": "BSM",
+        "level": 98,
+        "yield": 1,
+        "durability": 40,
+        "quality": 11000,
+        "components": [
+            {"name": "Ra'Kaznar Ore", "amount": 5},
+            {"name": "Magnesia Powder", "amount": 2}
+        ]
+    },
+    {
+        "item": {"name": "Ra'Kaznar Ring of Gathering", "equipable": true},
+        "crafting_class": "ARM",
+        "level": 100,
+        "yield": 1,
+        "durability": 80,
+        "quality": 12000,
+        "components": [
+            {"name": "Ra'Kaznar Ingot", "amount": 1},
+            {"name": "Thunderyards Silk", "amount": 1}
+        ]
+    }
+]

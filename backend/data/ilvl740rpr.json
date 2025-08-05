@@ -1,0 +1,226 @@
+[
+    {
+        "item": {"name": "Ceremonial Corselet of Maiming ★★★", "equipable": true},
+        "crafting_class": "ARM",
+        "level": 100,
+        "yield": 1,
+        "durability": 70,
+        "quality": 18700,
+        "components": [
+            {"name": "Octahedrite Nugget ★★★", "amount": 3},
+            {"name": "Diatryma Felt ★★★", "amount": 2},
+            {"name": "Gargantua Leather", "amount": 1},
+            {"name": "Grade 3 Gemsap of Strength ★★★", "amount": 2},
+            {"name": "Mythloam Aethersand", "amount": 1}
+        ]
+    },
+    {
+        "item": {"name": "Ceremonial Vambraces of Maiming ★★★", "equipable": true},
+        "crafting_class": "ARM",
+        "level": 100,
+        "yield": 1,
+        "durability": 70,
+        "quality": 18700,
+        "components": [
+            {"name": "Octahedrite Nugget ★★★", "amount": 2},
+            {"name": "Cronopio Leather ★★★", "amount": 1},
+            {"name": "Thunderyards Silk", "amount": 1},
+            {"name": "Grade 3 Gemsap of Strength ★★★", "amount": 2},
+            {"name": "Mythloam Aethersand", "amount": 1}
+        ]
+    },
+    {
+        "item": {"name": "Ceremonial Ring of Slaying ★★★", "equipable": true},
+        "crafting_class": "CRP",
+        "level": 100,
+        "yield": 1,
+        "durability": 70,
+        "quality": 18700,
+        "components": [
+            {"name": "Cordia Lumber ★★★", "amount": 1},
+            {"name": "Rhodochrosite ★★★", "amount": 1},
+            {"name": "Claro Walnut Lumber", "amount": 1},
+            {"name": "Grade 3 Gemsap of Strength ★★★", "amount": 1},
+            {"name": "Mythbrine Aethersand", "amount": 1}
+        ]
+    },
+    {
+        "item": {"name": "Ceremonial Greaves of Maiming ★★★", "equipable": true},
+        "crafting_class": "LTW",
+        "level": 100,
+        "yield": 1,
+        "durability": 70,
+        "quality": 18700,
+        "components": [
+            {"name": "Cronopio Leather ★★★", "amount": 2},
+            {"name": "Rhodochrosite ★★★", "amount": 1},
+            {"name": "Thunderyards Silk", "amount": 1},
+            {"name": "Grade 3 Gemsap of Strength ★★★", "amount": 2},
+            {"name": "Mythbrine Aethersand", "amount": 1}
+        ]
+    },
+    {
+        "item": {"name": "Ceremonial Bangle of Slaying ★★★", "equipable": true},
+        "crafting_class": "LTW",
+        "level": 100,
+        "yield": 1,
+        "durability": 70,
+        "quality": 18700,
+        "components": [
+            {"name": "Cronopio Leather ★★★", "amount": 1},
+            {"name": "Cordia Lumber ★★★", "amount": 1},
+            {"name": "Gargantua Leather", "amount": 1},
+            {"name": "Grade 3 Gemsap of Strength ★★★", "amount": 1},
+            {"name": "Mythloam Aethersand", "amount": 1}
+        ]
+    },
+    {
+        "item": {"name": "Ceremonial Longcap of Maiming ★★★", "equipable": true},
+        "crafting_class": "WVR",
+        "level": 100,
+        "yield": 1,
+        "durability": 70,
+        "quality": 18700,
+        "components": [
+            {"name": "Diatryma Felt ★★★", "amount": 2},
+            {"name": "Rhodochrosite ★★★", "amount": 1},
+            {"name": "Ra'Kaznar Ingot", "amount": 1},
+            {"name": "Grade 3 Gemsap of Strength ★★★", "amount": 2},
+            {"name": "Mythroot Aethersand", "amount": 1}
+        ]
+    },
+    {
+        "item": {"name": "Ceremonial Hose of Maiming ★★★", "equipable": true},
+        "crafting_class": "WVR",
+        "level": 100,
+        "yield": 1,
+        "durability": 70,
+        "quality": 18700,
+        "components": [
+            {"name": "Diatryma Felt ★★★", "amount": 3},
+            {"name": "Cronopio Leather ★★★", "amount": 2},
+            {"name": "Gargantua Leather", "amount": 1},
+            {"name": "Grade 3 Gemsap of Strength ★★★", "amount": 2},
+            {"name": "Mythroot Aethersand", "amount": 1}
+        ]
+    },
+    {
+        "item": {"name": "Ceremonial Earring of Slaying ★★★", "equipable": true},
+        "crafting_class": "CRP",
+        "level": 100,
+        "yield": 1,
+        "durability": 70,
+        "quality": 18700,
+        "components": [
+            {"name": "Cordia Lumber ★★★", "amount": 1},
+            {"name": "Octahedrite Nugget ★★★", "amount": 1},
+            {"name": "Claro Walnut Lumber", "amount": 1},
+            {"name": "Grade 3 Gemsap of Strength ★★★", "amount": 1},
+            {"name": "Mythroot Aethersand", "amount": 1}
+        ]
+    },
+    {
+        "item": {"name": "Ceremonial War Scythe ★★★", "equipable": true},
+        "crafting_class": "BSM",
+        "level": 100,
+        "yield": 1,
+        "durability": 70,
+        "quality": 18700,
+        "components": [
+            {"name": "Octahedrite Nugget ★★★", "amount": 4},
+            {"name": "Rhodochrosite ★★★", "amount": 1},
+            {"name": "Ra'Kaznar Ingot", "amount": 1},
+            {"name": "Grade 3 Gemsap of Strength ★★★", "amount": 2},
+            {"name": "Mythbrine Aethersand", "amount": 1}
+        ]
+    },
+    {
+        "item": {"name": "Ceremonial Necklace of Slaying ★★★", "equipable": true},
+        "crafting_class": "GSM",
+        "level": 100,
+        "yield": 1,
+        "durability": 70,
+        "quality": 18700,
+        "components": [
+            {"name": "Rhodochrosite ★★★", "amount": 1},
+            {"name": "Cordia Lumber ★★★", "amount": 1},
+            {"name": "Black Star", "amount": 1},
+            {"name": "Grade 3 Gemsap of Strength ★★★", "amount": 1},
+            {"name": "Mythloam Aethersand", "amount": 1}
+        ]
+    },
+    {
+        "item": {"name": "Cordia Lumber ★★★", "equipable": false},
+        "crafting_class": "CRP",
+        "level": 100,
+        "yield": 1,
+        "durability": 35,
+        "quality": 12716,
+        "components": [
+            {"name": "Cordia Log ★★", "amount": 4},
+            {"name": "Hydrophobic Preservative", "amount": 2}
+        ]
+    },
+    {
+        "item": {"name": "Octahedrite Nugget ★★★", "equipable": false},
+        "crafting_class": "BSM",
+        "level": 100,
+        "yield": 1,
+        "durability": 35,
+        "quality": 12716,
+        "components": [
+            {"name": "Octahedrite ★★", "amount": 4},
+            {"name": "Shaaloani Coke", "amount": 2}
+        ]
+    },
+    {
+        "item": {"name": "Grade 3 Gemsap of Strength ★★★", "equipable": false},
+        "crafting_class": "ALC",
+        "level": 100,
+        "yield": 3,
+        "durability": 35,
+        "quality": 12716,
+        "components": [
+            {"name": "Fulgurite ★★", "amount": 2},
+            {"name": "Yak T'el Spring Water", "amount": 1},
+            {"name": "Wind Parsley", "amount": 1},
+            {"name": "Sungilt Aethersand", "amount": 1}
+        ]
+    },
+    {
+        "item": {"name": "Rhodochrosite ★★★", "equipable": false},
+        "crafting_class": "GSM",
+        "level": 100,
+        "yield": 1,
+        "durability": 35,
+        "quality": 12716,
+        "components": [
+            {"name": "Raw Rhodochrosite ★★", "amount": 4},
+            {"name": "Neo Abrasive", "amount": 2}
+        ]
+    },
+    {
+        "item": {"name": "Diatryma Felt ★★★", "equipable": false},
+        "crafting_class": "WVR",
+        "level": 100,
+        "yield": 1,
+        "durability": 35,
+        "quality": 12716,
+        "components": [
+            {"name": "Cochineal Pigment", "amount": 4},
+            {"name": "Diatryma Pelt", "amount": 2}
+        ]
+    },
+    {
+        "item": {"name": "Cronopio Leather ★★★", "equipable": false},
+        "crafting_class": "LTW",
+        "level": 100,
+        "yield": 1,
+        "durability": 35,
+        "quality": 12716,
+        "components": [
+            {"name": "Shaaloni Coffee", "amount": 4},
+            {"name": "Cronopio Skin", "amount": 2}
+        ]
+    }
+]
